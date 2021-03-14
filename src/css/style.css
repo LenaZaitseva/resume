@@ -28,7 +28,66 @@ body{
 .my-education{
 
 }
+/*Side bar section*/
 .side-bar-section{
     background-color: #1E2939;
-;
+    width: 370px;
+    padding: 40px 0;
+}
+.foto{
+
+    width: 370px;
+    height: 354px;
+    left: 40px;
+    top: 80px;
+}
+
+.contact-section,
+.teach-skills-section{
+    margin: 50px 0 0 40px;
+}
+.soft-skills-section{
+    margin: 45px 0 0 40px;
+}
+.side-bar-title{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: #ffffff;
+    margin-bottom: 8px;
+}
+/*Contact section*/
+.contact-section-type{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    margin-right: 5px;
+    color: #FFFFFF;
+}
+.contact-section-link{
+    color: #565E6A;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+}
+/*teach-skills section*/
+.teach-skills-list{
+    padding: 0 0 0 17px;
+}
+.teach-skills-item{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FB6D3A;
+}
+.teach-skills-item-text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
 }
